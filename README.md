@@ -1,4 +1,4 @@
-# PICKAI Research
+# Yes-No research
 
 Academic research and mathematical proofs for prediction market mechanisms
 
@@ -29,9 +29,9 @@ ZK-SNARK implementation for privacy-preserving betting
 ## Citations
 
 ```bibtex
-@article{pickai2024kelly,
+@article{yes-no2024kelly,
   title={Optimal Market Making in Prediction Markets with Kelly Criterion},
-  author={PICKAI Research Team},
+  author={yes-no.fun Research Team},
   journal={Journal of Prediction Markets},
   year={2024}
 }
